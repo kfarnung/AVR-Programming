@@ -1,0 +1,5 @@
+# Build output
+*.o
+*.elf
+*.hex
+*.map

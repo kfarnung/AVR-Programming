@@ -1,0 +1,2950 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Searching 67 files for \"atmega168p\"\n\nD:\\kfarnung\\Projects\\AVR-Programming\\AVR-Programming-Library\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter02_Programming-AVRs\\blinkLED\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter02_Programming-AVRs\\blinkLED_AVR_style\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter03_Digital-Output\\povToy\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter03_Digital-Output\\povToy_1up\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter03_Digital-Output\\povToy_cylonEyes\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter03_Digital-Output\\povToy_invaders\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter04_Bit-Twiddling\\cylonEyes\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter04_Bit-Twiddling\\cylonEyes_16LFSR\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter04_Bit-Twiddling\\cylonEyes_8LFSR\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter04_Bit-Twiddling\\cylonEyes_counting\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter04_Bit-Twiddling\\cylonEyes_halfStepping\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter04_Bit-Twiddling\\cylonEyes_naive\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter04_Bit-Twiddling\\cylonEyes_quasiRandomToggle\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter04_Bit-Twiddling\\showingOffBits\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter05_Serial-IO\\serialLoopback\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter05_Serial-IO\\serialOrgan\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter06_Digital-Input\\avrMusicBox\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter06_Digital-Input\\bossButton\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter06_Digital-Input\\debouncer\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter06_Digital-Input\\simpleButton\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter06_Digital-Input\\toggleButton\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter06_Digital-Input\\toggleButton_debounced\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter07_Analog-to-Digital-Conversion-I\\lightSensor\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter07_Analog-to-Digital-Conversion-I\\nightLight\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter07_Analog-to-Digital-Conversion-I\\slowScope\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter08_Hardware-Interrupts\\capSense\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 8000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter08_Hardware-Interrupts\\helloInterrupt\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter08_Hardware-Interrupts\\helloPinChangeInterrupt\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter09_Introduction-to-Timer-Counter-Hardware\\amRadio\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 8000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter09_Introduction-to-Timer-Counter-Hardware\\reactionTimer\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter09_Introduction-to-Timer-Counter-Hardware\\timerAudio\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter10_Pulse-Width-Modulation\\bruteForcePWM\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter10_Pulse-Width-Modulation\\pwm\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter10_Pulse-Width-Modulation\\pwm_cross-fading_cylons\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter10_Pulse-Width-Modulation\\pwmOnAnyPin\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter10_Pulse-Width-Modulation\\pwmTimers\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter11_Driving-Servo-Motors\\servoSundial\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 8000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter11_Driving-Servo-Motors\\servoWorkout\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter12_Analog-to-Digital-Conversion-II\\footstepDetector\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter12_Analog-to-Digital-Conversion-II\\voltmeter\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter13_Advanced-PWM-Tricks\\adsr\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 8000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter13_Advanced-PWM-Tricks\\arpeggiator\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 8000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter13_Advanced-PWM-Tricks\\dds\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 8000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter13_Advanced-PWM-Tricks\\dds_interrupts\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 8000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter13_Advanced-PWM-Tricks\\dds_saw15\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 8000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter13_Advanced-PWM-Tricks\\dialTone\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 8000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter13_Advanced-PWM-Tricks\\fatSaw\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 8000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter14_Switches\\dcMotorWorkout\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter15_Advanced-Motors\\hBridgeWorkout\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter15_Advanced-Motors\\stepperWorkout\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 8000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter16_SPI\\spiEEPROMDemo\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter17_I2C\\i2cThermometer\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 8000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter17_I2C\\loggingThermometer\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 8000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter18_Using-Flash-Program-Memory\\progmemDemo1\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter18_Using-Flash-Program-Memory\\progmemDemo2\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter18_Using-Flash-Program-Memory\\progmemDemo3\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter18_Using-Flash-Program-Memory\\progmemDemo4\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter18_Using-Flash-Program-Memory\\progmemDemo5\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter18_Using-Flash-Program-Memory\\talkingVoltmeter\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 8000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter19_EEPROM\\eememDemo\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter19_EEPROM\\favoriteColor\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter19_EEPROM\\quickDemo\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\Chapter19_EEPROM\\vigenereCipher\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 1000000UL  \n    9  BAUD  = 9600UL\n\nD:\\kfarnung\\Projects\\AVR-Programming\\setupProject\\Makefile:\n    5  ##########------------------------------------------------------##########\n    6  \n    7: MCU   = atmega168p\n    8  F_CPU = 8000000UL  \n    9  BAUD  = 9600UL\n\n65 matches across 65 files\n",
+			"settings":
+			{
+				"buffer_size": 16609,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "AVR-Programming-Library/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter02_Programming-AVRs/blinkLED/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter02_Programming-AVRs/blinkLED/blinkLED.c",
+			"settings":
+			{
+				"buffer_size": 981,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 36,
+				"line_ending": "Windows",
+				"name": "*.o"
+			}
+		},
+		{
+			"file": ".gitattributes",
+			"settings":
+			{
+				"buffer_size": 75,
+				"line_ending": "Windows",
+				"name": "* text=auto"
+			}
+		},
+		{
+			"file": "Chapter02_Programming-AVRs/blinkLED_AVR_style/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter03_Digital-Output/povToy/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter03_Digital-Output/povToy_1up/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter03_Digital-Output/povToy_cylonEyes/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter03_Digital-Output/povToy_invaders/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter04_Bit-Twiddling/cylonEyes/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter04_Bit-Twiddling/cylonEyes_16LFSR/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter04_Bit-Twiddling/cylonEyes_8LFSR/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter04_Bit-Twiddling/cylonEyes_counting/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter04_Bit-Twiddling/cylonEyes_halfStepping/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter04_Bit-Twiddling/cylonEyes_naive/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter04_Bit-Twiddling/cylonEyes_quasiRandomToggle/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter04_Bit-Twiddling/showingOffBits/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter05_Serial-IO/serialLoopback/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter05_Serial-IO/serialOrgan/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter06_Digital-Input/avrMusicBox/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter06_Digital-Input/bossButton/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter06_Digital-Input/debouncer/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter06_Digital-Input/simpleButton/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter06_Digital-Input/toggleButton/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter06_Digital-Input/toggleButton_debounced/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter07_Analog-to-Digital-Conversion-I/lightSensor/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter07_Analog-to-Digital-Conversion-I/nightLight/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter07_Analog-to-Digital-Conversion-I/slowScope/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter08_Hardware-Interrupts/capSense/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter08_Hardware-Interrupts/helloInterrupt/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter08_Hardware-Interrupts/helloPinChangeInterrupt/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter09_Introduction-to-Timer-Counter-Hardware/amRadio/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter09_Introduction-to-Timer-Counter-Hardware/reactionTimer/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter09_Introduction-to-Timer-Counter-Hardware/timerAudio/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter10_Pulse-Width-Modulation/bruteForcePWM/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter10_Pulse-Width-Modulation/pwm/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter10_Pulse-Width-Modulation/pwm_cross-fading_cylons/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter10_Pulse-Width-Modulation/pwmOnAnyPin/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter10_Pulse-Width-Modulation/pwmTimers/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter11_Driving-Servo-Motors/servoSundial/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter11_Driving-Servo-Motors/servoWorkout/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter12_Analog-to-Digital-Conversion-II/footstepDetector/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter12_Analog-to-Digital-Conversion-II/voltmeter/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter13_Advanced-PWM-Tricks/adsr/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter13_Advanced-PWM-Tricks/arpeggiator/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter13_Advanced-PWM-Tricks/dds/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter13_Advanced-PWM-Tricks/dds_interrupts/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter13_Advanced-PWM-Tricks/dds_saw15/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter13_Advanced-PWM-Tricks/dialTone/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter13_Advanced-PWM-Tricks/fatSaw/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter14_Switches/dcMotorWorkout/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter15_Advanced-Motors/hBridgeWorkout/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter15_Advanced-Motors/stepperWorkout/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter16_SPI/spiEEPROMDemo/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter17_I2C/i2cThermometer/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter17_I2C/loggingThermometer/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter18_Using-Flash-Program-Memory/progmemDemo1/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter18_Using-Flash-Program-Memory/progmemDemo2/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter18_Using-Flash-Program-Memory/progmemDemo3/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter18_Using-Flash-Program-Memory/progmemDemo4/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter18_Using-Flash-Program-Memory/progmemDemo5/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter18_Using-Flash-Program-Memory/talkingVoltmeter/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter19_EEPROM/eememDemo/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter19_EEPROM/favoriteColor/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter19_EEPROM/quickDemo/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter19_EEPROM/vigenereCipher/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "setupProject/Makefile",
+			"settings":
+			{
+				"buffer_size": 7263,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/kfarnung/Projects/AVR-Programming",
+		"/D/kfarnung/Projects/AVR-Programming/Chapter02_Programming-AVRs",
+		"/D/kfarnung/Projects/AVR-Programming/Chapter02_Programming-AVRs/blinkLED"
+	],
+	"file_history":
+	[
+		"/D/kfarnung/AVR-Programming-master/Chapter02_Programming-AVRs/blinkLED/blinkLED.c",
+		"/D/kfarnung/AVR-Programming-master/Chapter02_Programming-AVRs/blinkLED/Makefile"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 138.0,
+		"where_history":
+		[
+			"D:\\kfarnung\\Projects\\AVR-Programming,Makefile",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"atmega168p",
+			"168"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"atmega328p"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "D:\\kfarnung\\Projects\\AVR-Programming"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16609,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										213,
+										223
+									],
+									[
+										462,
+										472
+									],
+									[
+										721,
+										731
+									],
+									[
+										966,
+										976
+									],
+									[
+										1215,
+										1225
+									],
+									[
+										1470,
+										1480
+									],
+									[
+										1724,
+										1734
+									],
+									[
+										1971,
+										1981
+									],
+									[
+										2225,
+										2235
+									],
+									[
+										2478,
+										2488
+									],
+									[
+										2734,
+										2744
+									],
+									[
+										2994,
+										3004
+									],
+									[
+										3247,
+										3257
+									],
+									[
+										3512,
+										3522
+									],
+									[
+										3764,
+										3774
+									],
+									[
+										4012,
+										4022
+									],
+									[
+										4257,
+										4267
+									],
+									[
+										4506,
+										4516
+									],
+									[
+										4754,
+										4764
+									],
+									[
+										5001,
+										5011
+									],
+									[
+										5251,
+										5261
+									],
+									[
+										5501,
+										5511
+									],
+									[
+										5761,
+										5771
+									],
+									[
+										6027,
+										6037
+									],
+									[
+										6292,
+										6302
+									],
+									[
+										6556,
+										6566
+									],
+									[
+										6808,
+										6818
+									],
+									[
+										7066,
+										7076
+									],
+									[
+										7333,
+										7343
+									],
+									[
+										7603,
+										7613
+									],
+									[
+										7879,
+										7889
+									],
+									[
+										8152,
+										8162
+									],
+									[
+										8412,
+										8422
+									],
+									[
+										8662,
+										8672
+									],
+									[
+										8932,
+										8942
+									],
+									[
+										9190,
+										9200
+									],
+									[
+										9446,
+										9456
+									],
+									[
+										9703,
+										9713
+									],
+									[
+										9960,
+										9970
+									],
+									[
+										10232,
+										10242
+									],
+									[
+										10497,
+										10507
+									],
+									[
+										10745,
+										10755
+									],
+									[
+										11000,
+										11010
+									],
+									[
+										11247,
+										11257
+									],
+									[
+										11505,
+										11515
+									],
+									[
+										11758,
+										11768
+									],
+									[
+										12010,
+										12020
+									],
+									[
+										12260,
+										12270
+									],
+									[
+										12507,
+										12517
+									],
+									[
+										12761,
+										12771
+									],
+									[
+										13015,
+										13025
+									],
+									[
+										13256,
+										13266
+									],
+									[
+										13498,
+										13508
+									],
+									[
+										13744,
+										13754
+									],
+									[
+										14007,
+										14017
+									],
+									[
+										14270,
+										14280
+									],
+									[
+										14533,
+										14543
+									],
+									[
+										14796,
+										14806
+									],
+									[
+										15059,
+										15069
+									],
+									[
+										15326,
+										15336
+									],
+									[
+										15566,
+										15576
+									],
+									[
+										15810,
+										15820
+									],
+									[
+										16050,
+										16060
+									],
+									[
+										16295,
+										16305
+									],
+									[
+										16521,
+										16531
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 9315.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 68,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "AVR-Programming-Library/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 67,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Chapter02_Programming-AVRs/blinkLED/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1038,
+								1038
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Chapter02_Programming-AVRs/blinkLED/blinkLED.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 981,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								621,
+								625
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 36,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36,
+								36
+							]
+						],
+						"settings":
+						{
+							"auto_name": "*.o",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": ".gitattributes",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 75,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								63,
+								63
+							]
+						],
+						"settings":
+						{
+							"auto_name": "* text=auto",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Chapter02_Programming-AVRs/blinkLED_AVR_style/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 66,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Chapter03_Digital-Output/povToy/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 65,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "Chapter03_Digital-Output/povToy_1up/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 64,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "Chapter03_Digital-Output/povToy_cylonEyes/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 63,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "Chapter03_Digital-Output/povToy_invaders/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 62,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "Chapter04_Bit-Twiddling/cylonEyes/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 61,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "Chapter04_Bit-Twiddling/cylonEyes_16LFSR/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 60,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "Chapter04_Bit-Twiddling/cylonEyes_8LFSR/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 59,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "Chapter04_Bit-Twiddling/cylonEyes_counting/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 58,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "Chapter04_Bit-Twiddling/cylonEyes_halfStepping/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 57,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "Chapter04_Bit-Twiddling/cylonEyes_naive/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 56,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "Chapter04_Bit-Twiddling/cylonEyes_quasiRandomToggle/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 55,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "Chapter04_Bit-Twiddling/showingOffBits/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 54,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "Chapter05_Serial-IO/serialLoopback/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 53,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "Chapter05_Serial-IO/serialOrgan/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 52,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "Chapter06_Digital-Input/avrMusicBox/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 51,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "Chapter06_Digital-Input/bossButton/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 50,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "Chapter06_Digital-Input/debouncer/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 49,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "Chapter06_Digital-Input/simpleButton/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 48,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "Chapter06_Digital-Input/toggleButton/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 47,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "Chapter06_Digital-Input/toggleButton_debounced/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 46,
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "Chapter07_Analog-to-Digital-Conversion-I/lightSensor/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 45,
+					"type": "text"
+				},
+				{
+					"buffer": 28,
+					"file": "Chapter07_Analog-to-Digital-Conversion-I/nightLight/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 44,
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"file": "Chapter07_Analog-to-Digital-Conversion-I/slowScope/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 43,
+					"type": "text"
+				},
+				{
+					"buffer": 30,
+					"file": "Chapter08_Hardware-Interrupts/capSense/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 42,
+					"type": "text"
+				},
+				{
+					"buffer": 31,
+					"file": "Chapter08_Hardware-Interrupts/helloInterrupt/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 41,
+					"type": "text"
+				},
+				{
+					"buffer": 32,
+					"file": "Chapter08_Hardware-Interrupts/helloPinChangeInterrupt/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 40,
+					"type": "text"
+				},
+				{
+					"buffer": 33,
+					"file": "Chapter09_Introduction-to-Timer-Counter-Hardware/amRadio/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 39,
+					"type": "text"
+				},
+				{
+					"buffer": 34,
+					"file": "Chapter09_Introduction-to-Timer-Counter-Hardware/reactionTimer/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 38,
+					"type": "text"
+				},
+				{
+					"buffer": 35,
+					"file": "Chapter09_Introduction-to-Timer-Counter-Hardware/timerAudio/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 37,
+					"type": "text"
+				},
+				{
+					"buffer": 36,
+					"file": "Chapter10_Pulse-Width-Modulation/bruteForcePWM/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 36,
+					"type": "text"
+				},
+				{
+					"buffer": 37,
+					"file": "Chapter10_Pulse-Width-Modulation/pwm/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 35,
+					"type": "text"
+				},
+				{
+					"buffer": 38,
+					"file": "Chapter10_Pulse-Width-Modulation/pwm_cross-fading_cylons/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 34,
+					"type": "text"
+				},
+				{
+					"buffer": 39,
+					"file": "Chapter10_Pulse-Width-Modulation/pwmOnAnyPin/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 33,
+					"type": "text"
+				},
+				{
+					"buffer": 40,
+					"file": "Chapter10_Pulse-Width-Modulation/pwmTimers/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 32,
+					"type": "text"
+				},
+				{
+					"buffer": 41,
+					"file": "Chapter11_Driving-Servo-Motors/servoSundial/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 31,
+					"type": "text"
+				},
+				{
+					"buffer": 42,
+					"file": "Chapter11_Driving-Servo-Motors/servoWorkout/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 30,
+					"type": "text"
+				},
+				{
+					"buffer": 43,
+					"file": "Chapter12_Analog-to-Digital-Conversion-II/footstepDetector/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 29,
+					"type": "text"
+				},
+				{
+					"buffer": 44,
+					"file": "Chapter12_Analog-to-Digital-Conversion-II/voltmeter/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 28,
+					"type": "text"
+				},
+				{
+					"buffer": 45,
+					"file": "Chapter13_Advanced-PWM-Tricks/adsr/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 27,
+					"type": "text"
+				},
+				{
+					"buffer": 46,
+					"file": "Chapter13_Advanced-PWM-Tricks/arpeggiator/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				},
+				{
+					"buffer": 47,
+					"file": "Chapter13_Advanced-PWM-Tricks/dds/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 48,
+					"file": "Chapter13_Advanced-PWM-Tricks/dds_interrupts/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 49,
+					"file": "Chapter13_Advanced-PWM-Tricks/dds_saw15/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 50,
+					"file": "Chapter13_Advanced-PWM-Tricks/dialTone/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 51,
+					"file": "Chapter13_Advanced-PWM-Tricks/fatSaw/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 52,
+					"file": "Chapter14_Switches/dcMotorWorkout/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 53,
+					"file": "Chapter15_Advanced-Motors/hBridgeWorkout/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 54,
+					"file": "Chapter15_Advanced-Motors/stepperWorkout/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 55,
+					"file": "Chapter16_SPI/spiEEPROMDemo/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 56,
+					"file": "Chapter17_I2C/i2cThermometer/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 57,
+					"file": "Chapter17_I2C/loggingThermometer/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 58,
+					"file": "Chapter18_Using-Flash-Program-Memory/progmemDemo1/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 59,
+					"file": "Chapter18_Using-Flash-Program-Memory/progmemDemo2/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 60,
+					"file": "Chapter18_Using-Flash-Program-Memory/progmemDemo3/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 61,
+					"file": "Chapter18_Using-Flash-Program-Memory/progmemDemo4/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 62,
+					"file": "Chapter18_Using-Flash-Program-Memory/progmemDemo5/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 63,
+					"file": "Chapter18_Using-Flash-Program-Memory/talkingVoltmeter/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 64,
+					"file": "Chapter19_EEPROM/eememDemo/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 65,
+					"file": "Chapter19_EEPROM/favoriteColor/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 66,
+					"file": "Chapter19_EEPROM/quickDemo/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 67,
+					"file": "Chapter19_EEPROM/vigenereCipher/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 68,
+					"file": "setupProject/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								977,
+								977
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
